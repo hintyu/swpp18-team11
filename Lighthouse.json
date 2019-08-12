@@ -3,5 +3,5 @@
     "setup": "cd frontend && npm install",
     "build": "cd frontend && npm run build"
   },
-  "buildLoc": "dist/frontend"
+  "buildLoc": "frontend/dist/frontend"
 }
